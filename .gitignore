@@ -1,0 +1,13 @@
+# Default ignored files
+/workspace.xml
+
+# Compiled files
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+# IDE
+.idea/
